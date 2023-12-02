@@ -27,6 +27,7 @@
 - [qb-shops](https://github.com/qbcore-framework/qb-shops) - Needed in order to add shops
 
 ## Screenshots
+![Alt text](image.png)
 
 ## Features
 - Item crafting
@@ -437,4 +438,3 @@ Config.MaximumAmmoValues = {
     ["rifle"] = 250,
 }
 ```
-![Alt text](image.png)
